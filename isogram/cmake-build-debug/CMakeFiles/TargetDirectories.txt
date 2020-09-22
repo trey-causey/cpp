@@ -1,0 +1,4 @@
+C:/Users/TJC/Exercism/cpp/isogram/cmake-build-debug/CMakeFiles/isogram.dir
+C:/Users/TJC/Exercism/cpp/isogram/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/TJC/Exercism/cpp/isogram/cmake-build-debug/CMakeFiles/test_isogram.dir
+C:/Users/TJC/Exercism/cpp/isogram/cmake-build-debug/CMakeFiles/rebuild_cache.dir

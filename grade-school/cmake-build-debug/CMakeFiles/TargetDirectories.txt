@@ -1,0 +1,4 @@
+C:/Users/TJC/Exercism/cpp/grade-school/cmake-build-debug/CMakeFiles/grade-school.dir
+C:/Users/TJC/Exercism/cpp/grade-school/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/TJC/Exercism/cpp/grade-school/cmake-build-debug/CMakeFiles/test_grade-school.dir
+C:/Users/TJC/Exercism/cpp/grade-school/cmake-build-debug/CMakeFiles/rebuild_cache.dir
