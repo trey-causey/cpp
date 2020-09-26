@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/TJC/Exercism/cpp/isogram/isogram.cpp
+isogram.h
+C:/Users/TJC/Exercism/cpp/isogram/isogram.h
+iostream
+-
+
+C:/Users/TJC/Exercism/cpp/isogram/isogram.h
+string
+-
+

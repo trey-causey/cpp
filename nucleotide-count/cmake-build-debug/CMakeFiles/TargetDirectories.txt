@@ -1,0 +1,4 @@
+C:/Users/TJC/Exercism/cpp/nucleotide-count/cmake-build-debug/CMakeFiles/nucleotide-count.dir
+C:/Users/TJC/Exercism/cpp/nucleotide-count/cmake-build-debug/CMakeFiles/test_nucleotide-count.dir
+C:/Users/TJC/Exercism/cpp/nucleotide-count/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/TJC/Exercism/cpp/nucleotide-count/cmake-build-debug/CMakeFiles/rebuild_cache.dir
